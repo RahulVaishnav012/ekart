@@ -1,0 +1,17 @@
+.ekart-menu{
+    font-size:15px;
+    color:#36454F;
+    font-weight:normal;
+    width:70%;
+    padding-top:2vh;
+    padding:1vh 1vh;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+nav{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
